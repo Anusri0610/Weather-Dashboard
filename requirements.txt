@@ -6,3 +6,4 @@ folium
 geopy 
 ydata_profiling
 streamlit-folium  
+setuptools>=58.0.0
