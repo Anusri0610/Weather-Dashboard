@@ -3,6 +3,6 @@ pandas
 plotly  
 requests  
 folium  
-geopy  
-ydata-profiling  
+geopy 
+ydata_profiling
 streamlit-folium  
